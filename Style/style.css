@@ -27,7 +27,7 @@ body{
     justify-content: center;
 }
 
-/* .Header{
+ .Header{
     grid-column-start: 1;
     grid-column-end: 4;
 
@@ -44,7 +44,7 @@ body{
 .C1{
     grid-column-start: 2;
     grid-column-end: 4;
-} */
+} 
 
 @media (min-width: 768px){
     .child{
